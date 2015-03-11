@@ -2,3 +2,4 @@ Ordinateur avec console
 Git
 Github
 Gedit
+L'aide d'un ami
